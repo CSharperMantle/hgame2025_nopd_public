@@ -1,0 +1,13 @@
+IndentWidth: 2
+IndentCaseLabels: true
+AlignOperands: Align
+ColumnLimit: 100
+BinPackArguments: false
+BinPackParameters: false
+AlignAfterOpenBracket: BlockIndent
+AllowShortFunctionsOnASingleLine: Inline
+AlignConsecutiveMacros: Consecutive
+AllowShortCaseLabelsOnASingleLine: true
+AlignArrayOfStructures: Left
+BreakBeforeBinaryOperators: NonAssignment
+BreakAfterAttributes: Always
